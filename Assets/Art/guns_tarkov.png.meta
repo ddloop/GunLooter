@@ -1,0 +1,1997 @@
+fileFormatVersion: 2
+guid: bc6cc233005b88947a15d290b7b80cbc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guns_tarkov_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1976
+        width: 180
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855031357bc96504f84400876ae678fc
+      internalID: 657185210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1996
+        width: 196
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea8f59fca8ca8e408503952b0ffdff5
+      internalID: 267393640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1980
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7970c3b182ba13b45a7386c3ed3ede0b
+      internalID: -1747865660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_3
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2004
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddea8f153366ded468a2b8db664751cf
+      internalID: -1364221230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1904
+        width: 184
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47ca5e4e338fef4cb398dc640636527
+      internalID: -541808972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1944
+        width: 196
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324e3036bb10e9b4989e3083ea829e29
+      internalID: -968761425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_6
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1912
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad78345de80c734ea5d4dab09e67b1d
+      internalID: 124703372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_7
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1964
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6de10796e1db44a74c840da12f568
+      internalID: 244323631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1896
+        width: 216
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f55e41bff76644973de6b5062f1ee
+      internalID: 929423823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_9
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1924
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce166adfafb952e45aefb784699b61de
+      internalID: -1188770311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1836
+        width: 164
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d04c476d057d4ebb0d3355854442f
+      internalID: -633132560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1832
+        width: 156
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08445bac990145408936890ed1cd881
+      internalID: -1354275100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1844
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394f2823d1b4634286da6dd30f0e922
+      internalID: -1496647596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_13
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1884
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb45461c59a06554cb91ad33f8824cf3
+      internalID: 1616138538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_14
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1844
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7577239d211ed40428940b8968cc023b
+      internalID: 1019579773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1780
+        width: 196
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdfe2068abcc3243b87ade3c009df38
+      internalID: 8574836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1788
+        width: 204
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1394f2b149ded0c43a296c45c1ccbefd
+      internalID: 1011537890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_17
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1772
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bc55398c4bbcd4c91d499864797843
+      internalID: -2062559711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_18
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1804
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc01c0f6b97029e4193be2c33f398ce2
+      internalID: 1388448236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1724
+        width: 224
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0273e13dd4ba58840a64971529e7d343
+      internalID: -423209721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1740
+        width: 204
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a725c770ab7f9f408605a9afa884d11
+      internalID: -1585037753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_21
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1700
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35702a0955248504fb88f9bbfec64fa1
+      internalID: -1740370834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_22
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1764
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d39a373f5890944a7ae0cc5cd1d25b
+      internalID: -379520079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1696
+        width: 204
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100a4fe67875f2646a23b6de2d7145f3
+      internalID: -883491578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_24
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1724
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9d5bbe3716da24e9e9345ce5e752aa
+      internalID: 126993712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1668
+        width: 152
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b857b2fc4271194185cee4c26369348
+      internalID: -301704218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1652
+        width: 204
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0275da8066152d74982837b7e23bc33a
+      internalID: 1763763317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_27
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1636
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c30840c0853cf740b1105a0d6f03ab3
+      internalID: 1085082958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_28
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1684
+        width: 168
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcede37c097f98941aac6bea4f9936d6
+      internalID: -1858137174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1612
+        width: 160
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52116aff7279b5f4fb19bb0682d67fb6
+      internalID: 1379925717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_30
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1576
+        width: 200
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361805603bed2464aa51d33194a93d1a
+      internalID: -353536769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_31
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1644
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d217da44b3508042ac5a6d416a28974
+      internalID: 1615503007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1552
+        width: 156
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8361d9e9517f40841a05bdd5fb572d9b
+      internalID: -606640617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_33
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1572
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5df9ffe882d0184ea1ddd6697e81ce0
+      internalID: -1304535676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_34
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1604
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a8ae55f22f83e47bbd787af94f78ba
+      internalID: 1112381772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1524
+        width: 188
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5f90d46d0a2714dad7f12044fd3bfd
+      internalID: -605288122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_36
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1520
+        width: 120
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90180f070baebb8499f6d20152b5b870
+      internalID: -1359866723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_37
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1560
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a764792298d09b47b1847bfaacf2d0e
+      internalID: -853820391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1484
+        width: 152
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f4094a5d3f76f49b71df22caedd49c
+      internalID: -681207283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_39
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1520
+        width: 96
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e098cdd318417546b7ade4ea13d5e48
+      internalID: -1421631812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_40
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1472
+        width: 192
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0362ef4b567ff43b30f9e8c1487a7a
+      internalID: 2040352165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_41
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1456
+        width: 172
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8ee7a30cc6c194a9440e1606200c87
+      internalID: -530893455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_42
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1480
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a2de0d260eee04ca7c9a1f7ee79f94
+      internalID: -2034556463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1416
+        width: 180
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5f26abd7a3a2c408846236c6815f8b
+      internalID: -1358955392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_44
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1424
+        width: 208
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0421e2b45d549e344a51ae11a509a4c5
+      internalID: -1139787029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_45
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1380
+        width: 152
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14065c54d1a7e504a93877c4112ab0f9
+      internalID: -858137453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_46
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1440
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4438d36833c75b4f96e9fcb7a57580b
+      internalID: -1707689742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1348
+        width: 188
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358a16d702f8274080bdf6fa9089e16
+      internalID: -349502079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_48
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1360
+        width: 236
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cf166a8638212429ac9ce2415fe420
+      internalID: 55137402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_49
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1400
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3b8ae70c24754bb60a1a84f6875a2
+      internalID: 827489022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1280
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9675dd778e8498d4ba1e30c6ec2cf381
+      internalID: 1992208708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_51
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1300
+        width: 208
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94456d9601606845a5d1fb5728d609c
+      internalID: 1236189382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_52
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1308
+        width: 144
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec88cdd4720c2ab41b455fb40d186ed4
+      internalID: 2044314092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1220
+        width: 188
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2dbc57a28046a4fad9e499015648dd
+      internalID: 1088837087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_54
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1240
+        width: 212
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa117c48b9b081a488a48f26ba5138fc
+      internalID: 284981538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_55
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1236
+        width: 144
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8fddc91030bb74880ccc5a2c6c84ae
+      internalID: 1212950307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1152
+        width: 188
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf820212d0c1b34f8a405d8b878a826
+      internalID: -55690732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_57
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1184
+        width: 212
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1774ebabad14c4a9ff27347719d4db
+      internalID: -298410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_58
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1168
+        width: 148
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7915e7fd3a39f3c47a173cf3e9e7a020
+      internalID: 1456868125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1084
+        width: 188
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd663354c392884db029fb921b7de99
+      internalID: -360281354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_60
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1132
+        width: 240
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628e8c00b79c10648aa18b69d47455bd
+      internalID: -1249993304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_61
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1100
+        width: 164
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6523f0a52c227dd4cb256a48c913614e
+      internalID: -2111539828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_62
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1080
+        width: 212
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a14e35ccbb3e645aac768002ba55c3
+      internalID: -1576127192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_63
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1036
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc75b1ad620d2e4fa64e4aec8a65126
+      internalID: 873766219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1016
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed618234f929a34d90d16e415436301
+      internalID: 1977528077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_65
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1028
+        width: 212
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef81afa57c452cf43a1a33813ed89d6f
+      internalID: 557609173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_66
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 972
+        width: 160
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05c3f6fb56a3924e81f901663e424a1
+      internalID: -672740807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 948
+        width: 180
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35520db289435c47b6d0f8f2122a977
+      internalID: -1225457131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_68
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 980
+        width: 208
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066d90aa89d696d4f93e88476ca0bd00
+      internalID: 2011377053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 880
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73763f10d8b3e494f9ff5998417907d6
+      internalID: -441037111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_70
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 932
+        width: 220
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5d00762e876e4ca97ddcbf3710816
+      internalID: -398192562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_71
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 920
+        width: 168
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5090bfab35c99942af1b1e5838beb07
+      internalID: 1765528583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_72
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 884
+        width: 192
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4d3bc6a5bc72942a6d6fe84d5d7972
+      internalID: 1095246711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_73
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 856
+        width: 184
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd538c4cd49f4624c8b4ea1ffa1c67a1
+      internalID: 203780269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 812
+        width: 180
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4ec85feca46ab4e99898cc198a140c
+      internalID: -2066540702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_75
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 836
+        width: 212
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28349adf14c0a64e9fee95bd816d3bd
+      internalID: 520625570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_76
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 744
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6f6b980b4738f45a038bb3306e15ac
+      internalID: 819913356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_77
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 796
+        width: 112
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686586183332caa449aa42ede92cd7b5
+      internalID: -966130825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_78
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 748
+        width: 212
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e088f44f0019eb44a040151a7b2b5a0
+      internalID: -658473015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_79
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 676
+        width: 180
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467218525a4ccb04ba4c28f507749a39
+      internalID: -1696586578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_80
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 700
+        width: 224
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e48970d02a2d2e43a5712168912a555
+      internalID: 1846902665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 608
+        width: 188
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25e9151b5fd37f48827e8f7e4965791
+      internalID: -2009671033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_82
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 652
+        width: 200
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8798309d525a4340834ab377613aa6f
+      internalID: -1247628018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 556
+        width: 188
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48d6552a13717a4181e63ffad91af57
+      internalID: 21670659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns_tarkov_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 500
+        width: 180
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b8a09d6bc5e9a4b9a5b5de05f6f647
+      internalID: 1438638376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      guns_tarkov_0: 657185210
+      guns_tarkov_1: 267393640
+      guns_tarkov_10: -633132560
+      guns_tarkov_11: -1354275100
+      guns_tarkov_12: -1496647596
+      guns_tarkov_13: 1616138538
+      guns_tarkov_14: 1019579773
+      guns_tarkov_15: 8574836
+      guns_tarkov_16: 1011537890
+      guns_tarkov_17: -2062559711
+      guns_tarkov_18: 1388448236
+      guns_tarkov_19: -423209721
+      guns_tarkov_2: -1747865660
+      guns_tarkov_20: -1585037753
+      guns_tarkov_21: -1740370834
+      guns_tarkov_22: -379520079
+      guns_tarkov_23: -883491578
+      guns_tarkov_24: 126993712
+      guns_tarkov_25: -301704218
+      guns_tarkov_26: 1763763317
+      guns_tarkov_27: 1085082958
+      guns_tarkov_28: -1858137174
+      guns_tarkov_29: 1379925717
+      guns_tarkov_3: -1364221230
+      guns_tarkov_30: -353536769
+      guns_tarkov_31: 1615503007
+      guns_tarkov_32: -606640617
+      guns_tarkov_33: -1304535676
+      guns_tarkov_34: 1112381772
+      guns_tarkov_35: -605288122
+      guns_tarkov_36: -1359866723
+      guns_tarkov_37: -853820391
+      guns_tarkov_38: -681207283
+      guns_tarkov_39: -1421631812
+      guns_tarkov_4: -541808972
+      guns_tarkov_40: 2040352165
+      guns_tarkov_41: -530893455
+      guns_tarkov_42: -2034556463
+      guns_tarkov_43: -1358955392
+      guns_tarkov_44: -1139787029
+      guns_tarkov_45: -858137453
+      guns_tarkov_46: -1707689742
+      guns_tarkov_47: -349502079
+      guns_tarkov_48: 55137402
+      guns_tarkov_49: 827489022
+      guns_tarkov_5: -968761425
+      guns_tarkov_50: 1992208708
+      guns_tarkov_51: 1236189382
+      guns_tarkov_52: 2044314092
+      guns_tarkov_53: 1088837087
+      guns_tarkov_54: 284981538
+      guns_tarkov_55: 1212950307
+      guns_tarkov_56: -55690732
+      guns_tarkov_57: -298410
+      guns_tarkov_58: 1456868125
+      guns_tarkov_59: -360281354
+      guns_tarkov_6: 124703372
+      guns_tarkov_60: -1249993304
+      guns_tarkov_61: -2111539828
+      guns_tarkov_62: -1576127192
+      guns_tarkov_63: 873766219
+      guns_tarkov_64: 1977528077
+      guns_tarkov_65: 557609173
+      guns_tarkov_66: -672740807
+      guns_tarkov_67: -1225457131
+      guns_tarkov_68: 2011377053
+      guns_tarkov_69: -441037111
+      guns_tarkov_7: 244323631
+      guns_tarkov_70: -398192562
+      guns_tarkov_71: 1765528583
+      guns_tarkov_72: 1095246711
+      guns_tarkov_73: 203780269
+      guns_tarkov_74: -2066540702
+      guns_tarkov_75: 520625570
+      guns_tarkov_76: 819913356
+      guns_tarkov_77: -966130825
+      guns_tarkov_78: -658473015
+      guns_tarkov_79: -1696586578
+      guns_tarkov_8: 929423823
+      guns_tarkov_80: 1846902665
+      guns_tarkov_81: -2009671033
+      guns_tarkov_82: -1247628018
+      guns_tarkov_83: 21670659
+      guns_tarkov_84: 1438638376
+      guns_tarkov_9: -1188770311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
